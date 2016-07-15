@@ -2,12 +2,15 @@
 
 Gamify bouldering with a laptop and projector
 
-## Install
+## Run
 
 ### macOS
 
 ```bash
 brew install opencv3
+git clone https://github.com/marksteve/boulderdash.git
+cd boulderdash
+python boulderdash.py
 ```
 
 ## License
